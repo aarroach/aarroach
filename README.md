@@ -1,5 +1,5 @@
 ## About me 👋
 
 - 🔭 I’m currently working on misc. small projects
-- 🌱 I’m currently learning using Github, C/C++ programming, data collection and analysis with Python
+- 🌱 I’m currently learning new lanugages
 - 😄 Pronouns: he/him
